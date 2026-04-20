@@ -159,7 +159,7 @@ git add -p test.txt
 
 ### Créer un commit
 
-**Pour enregistrer un état d’historique, on utilise `git commit`**. Chaque commit doit concerner un ajout particulier, une fonctionnalité particulière, que l’on précise par un message. Il est donc recommandé de réaliser de multiples petits commits, plutôt qu’un seul important.
+**Pour enregistrer un état d’historique ou pas, on utilise `git commit`**. Chaque commit doit concerner un ajout particulier, une fonctionnalité particulière, que l’on précise par un message. Il est donc recommandé de réaliser de multiples petits commits, plutôt qu’un seul important.
 
 ```bash
 # Ouvre un éditeur pour écrire le message du commit
